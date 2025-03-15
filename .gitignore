@@ -1,0 +1,19 @@
+# Excluir entornos virtuales
+venv/
+env/
+
+# Excluir archivos de caché
+__pycache__/
+*.pyc
+*.pyo
+
+# Excluir archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Excluir archivos temporales de Dash
+*.db
+*.log
+
+# Ignorar todas las carpetas dentro de models y data
+models/
+data/
