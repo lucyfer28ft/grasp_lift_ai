@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3016d0f-35b1-4f87-b4cb-98b7591ed498" name="Changes" comment="" />
+    <list default="true" id="e3016d0f-35b1-4f87-b4cb-98b7591ed498" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/01_preprocesamiento.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_preprocesamiento.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/02_modelado.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/02_modelado.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
