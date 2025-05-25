@@ -7,8 +7,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Excluir archivos de configuración de Jupyter
-.ipynb_checkpoints/
 
 # Excluir archivos temporales de Dash
 *.db
