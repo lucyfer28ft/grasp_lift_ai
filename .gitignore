@@ -1,6 +1,9 @@
 # Excluir entornos virtuales
 venv/
 env/
+.venv/
+.venv_tf/
+.env/
 
 # Excluir archivos de caché
 __pycache__/
@@ -10,10 +13,13 @@ __pycache__/
 # Excluir archivos de configuración de Jupyter
 .ipynb_checkpoints/
 
-# Excluir archivos temporales de Dash
+# Excluir archivos temporales y bases de datos
 *.db
 *.log
 
-# Ignorar todas las carpetas dentro de models y data
+# Excluir configuración de PyCharm
+.idea/
+
+# Ignorar modelos y datos (ajusta si necesitas algunos sí en Git)
 models/
 data/

@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3016d0f-35b1-4f87-b4cb-98b7591ed498" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/grasp_and_lift_proyect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/grasp_and_lift_proyect.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/01_preprocesamiento.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_preprocesamiento.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/04_analisis_caracteristicas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/04_analisis_caracteristicas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/05_ingenieria_caracteristicas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/05_ingenieria_caracteristicas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/09_postprocesado_autoencoders-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/09_postprocesado_autoencoders-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/06_modelado_avanzado.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/06_modelado_avanzado.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/07_seleccion_caracteristicas_avanzada.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/07_seleccion_caracteristicas_avanzada.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/09_postprocesado_autoencoders.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/09_postprocesado_autoencoders.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
